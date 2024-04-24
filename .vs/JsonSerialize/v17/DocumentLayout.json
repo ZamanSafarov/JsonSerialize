@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Coding\\Aztu-Codeacademy\\JsonSerialize\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A0A3B323-AFDC-4703-8243-3BA39212B8A0}|JsonSerialize\\JsonSerialize.csproj|d:\\coding\\aztu-codeacademy\\jsonserialize\\jsonserialize\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0A3B323-AFDC-4703-8243-3BA39212B8A0}|JsonSerialize\\JsonSerialize.csproj|solutionrelative:jsonserialize\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0A3B323-AFDC-4703-8243-3BA39212B8A0}|JsonSerialize\\JsonSerialize.csproj|d:\\coding\\aztu-codeacademy\\jsonserialize\\jsonserialize\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0A3B323-AFDC-4703-8243-3BA39212B8A0}|JsonSerialize\\JsonSerialize.csproj|solutionrelative:jsonserialize\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Coding\\Aztu-Codeacademy\\JsonSerialize\\JsonSerialize\\Product.cs",
+              "RelativeDocumentMoniker": "JsonSerialize\\Product.cs",
+              "ToolTip": "D:\\Coding\\Aztu-Codeacademy\\JsonSerialize\\JsonSerialize\\Product.cs",
+              "RelativeToolTip": "JsonSerialize\\Product.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAkAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T23:40:22.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Coding\\Aztu-Codeacademy\\JsonSerialize\\JsonSerialize\\Program.cs",
+              "RelativeDocumentMoniker": "JsonSerialize\\Program.cs",
+              "ToolTip": "D:\\Coding\\Aztu-Codeacademy\\JsonSerialize\\JsonSerialize\\Program.cs",
+              "RelativeToolTip": "JsonSerialize\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T23:39:55.425Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

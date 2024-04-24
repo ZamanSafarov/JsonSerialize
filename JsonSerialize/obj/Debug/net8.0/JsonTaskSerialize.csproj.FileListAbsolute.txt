@@ -1,0 +1,14 @@
+D:\Coding\Aztu-Codeacademy\JsonSerialize\JsonSerialize\bin\Debug\net8.0\JsonTaskSerialize.exe
+D:\Coding\Aztu-Codeacademy\JsonSerialize\JsonSerialize\bin\Debug\net8.0\JsonTaskSerialize.deps.json
+D:\Coding\Aztu-Codeacademy\JsonSerialize\JsonSerialize\bin\Debug\net8.0\JsonTaskSerialize.runtimeconfig.json
+D:\Coding\Aztu-Codeacademy\JsonSerialize\JsonSerialize\bin\Debug\net8.0\JsonTaskSerialize.dll
+D:\Coding\Aztu-Codeacademy\JsonSerialize\JsonSerialize\bin\Debug\net8.0\JsonTaskSerialize.pdb
+D:\Coding\Aztu-Codeacademy\JsonSerialize\JsonSerialize\obj\Debug\net8.0\JsonTaskSerialize.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\Aztu-Codeacademy\JsonSerialize\JsonSerialize\obj\Debug\net8.0\JsonTaskSerialize.AssemblyInfoInputs.cache
+D:\Coding\Aztu-Codeacademy\JsonSerialize\JsonSerialize\obj\Debug\net8.0\JsonTaskSerialize.AssemblyInfo.cs
+D:\Coding\Aztu-Codeacademy\JsonSerialize\JsonSerialize\obj\Debug\net8.0\JsonTaskSerialize.csproj.CoreCompileInputs.cache
+D:\Coding\Aztu-Codeacademy\JsonSerialize\JsonSerialize\obj\Debug\net8.0\JsonTaskSerialize.dll
+D:\Coding\Aztu-Codeacademy\JsonSerialize\JsonSerialize\obj\Debug\net8.0\refint\JsonTaskSerialize.dll
+D:\Coding\Aztu-Codeacademy\JsonSerialize\JsonSerialize\obj\Debug\net8.0\JsonTaskSerialize.pdb
+D:\Coding\Aztu-Codeacademy\JsonSerialize\JsonSerialize\obj\Debug\net8.0\JsonTaskSerialize.genruntimeconfig.cache
+D:\Coding\Aztu-Codeacademy\JsonSerialize\JsonSerialize\obj\Debug\net8.0\ref\JsonTaskSerialize.dll
